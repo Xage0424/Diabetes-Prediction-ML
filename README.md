@@ -13,7 +13,7 @@
 4. Seaborn
 5. Scikit-learn
 
-# EDA Analysis and Visualization Summary:
+# Exploratory Data Analysis and Visualization Summary:
 - There are no missing values in the dataset
 - The dataset is imbalanced
 - No negative and closer to 1.0 correlations based on the correlation matrix
