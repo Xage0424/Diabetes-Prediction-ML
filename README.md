@@ -1,4 +1,4 @@
-# Simple Machine Learning Diabetes Prediction
+# Machine Learning Diabetes Prediction
 
 # Algorithms Used:
 1. Logistic Regression
@@ -24,3 +24,7 @@
 - Other solutions is to penalize or apply regularization and gradient descent techniques in the selected models
 - Other solutions is to have more data to solve the imbalanced dataset or use sampling techniques
 - After that, select a few more classification models based on the defined problem, type of data, and the expected outcome
+
+# Noticed Mistakes:
+- Scaled all the features
+**Fit only for the x_train and tranform only for the x_test dataset using the StandardScaler
