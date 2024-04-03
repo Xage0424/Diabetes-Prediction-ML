@@ -26,5 +26,5 @@
 - After that, select a few more classification models based on the defined problem, type of data, and the expected outcome
 
 # Noticed Mistakes:
-- Scaled all the features
-**Fit only for the x_train and tranform only for the x_test dataset using the StandardScaler
+- Scaled all the features too early
+- *Fit only for the x_train and tranform only for the x_test dataset using the StandardScaler*
